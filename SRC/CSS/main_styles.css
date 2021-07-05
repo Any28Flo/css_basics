@@ -1,0 +1,26 @@
+/*Etiquetas*/
+h3{
+    color: red;
+    padding: 30px;
+    align-self: center;
+}
+
+p{
+    color: red;
+    border-style: dotted;
+    border-width: 7px;
+    border-color: teal;
+    text-align: center;
+}
+
+h2{
+    background-color: lightblue;
+    text-align: center;
+    height: 100px;
+    width: 50%;
+}
+ h1{
+     background-image: url("../img/descargar.jpg");
+     text-align: center;
+     color: yellow;
+ }
