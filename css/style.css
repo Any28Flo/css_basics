@@ -1,0 +1,33 @@
+p {
+    color: red;
+    border: 7px dotted black;
+}
+
+h1 {
+    color: rgb(255, 255,0);
+}
+
+h2 {
+    background-color: blue;
+    height: 100px;
+    width: 50%;
+}
+
+h3 {
+    width: 30px;
+    margin: 0 auto;
+}
+
+h3, p {
+    color: red;
+}
+
+
+div {
+    height: 100px;
+    width: 100%;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_2UHVbhX0pOAdthMwA0edMxgA4F2lD5q4zWah6uLpoPQaOf8Fq1K5w_x39nXzFvypEE&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
