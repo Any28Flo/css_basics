@@ -1,0 +1,30 @@
+p{
+    color: red;
+}
+#h2{
+    background-color:royalblue;
+}
+#h3{
+    color: red;    
+}
+#h1{
+    color: yellow;
+    background-image: url(https://www.xtrafondos.com/wallpapers/ori-and-the-will-of-the-wisps-4898.jpg);
+}
+#bordePun{
+    border-style: dotted;
+}
+#h2Altura{
+    border-width: 100px;
+}
+#h2Ancho{
+    border-width: 50%;
+}
+#h3Relleno{
+    padding: 30px;
+}
+#h3Center{
+        margin-left: auto;
+        margin-right: auto;
+        width: 12em
+}
