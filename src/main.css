@@ -1,0 +1,32 @@
+
+h1{
+    color: yellow;
+}
+
+p{
+    color: red;
+    border: dotted black 7px;
+}
+
+
+h2{
+background-color: lightblue;
+height: 100px;
+width: 50%;
+font-size: 10px;
+}
+
+h3{
+   margin-left: 50%;
+   color: crimson;
+   height: 30px;
+   font-size: xx-small;
+
+
+}
+
+#imgBackground{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://mdn.mozillademos.org/files/11991/startransparent.gif");
+}
