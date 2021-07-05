@@ -1,0 +1,27 @@
+*{
+    --red: rgba(255, 0, 0, 0.584);
+    --azul-claro: rgb(0, 123, 255);
+    --yellow: rgba(255, 255, 0, 0.858);
+}
+p{
+
+    color: var(--red);
+}
+
+h1{
+    color: var(--yellow);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7Oz6GlIDRpuJcgCNRHS8nzf3z7UVD2QpAg&usqp=CAU');
+    background-repeat: no-repeat;
+}
+
+h3{
+    color: var(--red);
+    height: 30px;
+    text-align: center;
+}
+
+h2{
+    background-color: var(--azul-claro);
+    height: 100px;
+    width: 50%;
+}
