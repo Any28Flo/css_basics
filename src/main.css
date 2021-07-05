@@ -1,0 +1,23 @@
+.red{
+  color: red;  
+  border-style: dotted;
+}
+h3{
+    color: red;
+    padding: 30px;
+    margin-left: 100px;
+    
+}
+.fondoh2{
+    background-color: rgb(0, 255, 251);
+    line-height: 100px;
+    width: 50em;
+}
+#img{
+    height: 200px;
+    width:  200px;
+    background-image: url("https://i.pinimg.com/564x/a8/2a/38/a82a38c66ea602122507e8fa5df91c72.jpg");
+}
+h1{
+    color: yellow;
+}
