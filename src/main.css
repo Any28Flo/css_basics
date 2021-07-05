@@ -1,0 +1,21 @@
+p {
+    color: red;
+    border-style: dotted 7px;
+}
+h3 {
+    color: red;
+    background-size: 30px;
+    text-align: center;
+}
+#azulClaro {
+    color:skyblue;
+}
+h1 {
+    color: yellow;
+    background-image:url("images/degradado\ fondo.jpg")
+    
+} 
+h2{
+    height: 100px;
+    width: 50%;
+}
