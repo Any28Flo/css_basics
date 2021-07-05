@@ -1,0 +1,25 @@
+p, h3 {
+    color: red;
+}
+
+h2 {
+    background-color: #00DCFF;
+    height: 100px;
+    width: 50vh;
+}
+
+h1 {
+    color: yellow;
+    padding: 1em;
+    background-image: url(gradient-blue-pink-abstract-art-wallpaper-preview.jpg);
+}
+
+.parrafo {
+    border-style: dotted;
+    border-width: 7px;
+}
+
+#titulo_h3 {
+    padding: 30px;
+    margin-left: 50vh;
+}
