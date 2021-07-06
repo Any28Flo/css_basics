@@ -1,0 +1,24 @@
+/*hoja de estilo para index.html*/
+p {
+    color: red;
+    border-style: dotted;
+    border-width: 7px;
+}
+h3 {
+    color: red;
+    padding: 30px;
+    text-align: center;
+}
+h2 {
+    background-color: lightblue;
+    width: 50%;
+    height: 100px;
+}
+h1 {
+    color: yellow;
+}
+.foto {
+    width:800px;
+    height: 491px;
+    background-image: url("./foto.jpg");
+}
