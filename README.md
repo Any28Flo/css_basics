@@ -46,3 +46,13 @@ puedan verificar
 ## Recursos extras
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+
+
+
+
+- Establece cualquier imagen como fondo para h1.
+- Establece un borde punteado de 7 px alrededor de todos los párrafos. 
+- .Establece el relleno de h3 a 30px. 
+- Usa el margen para alinear al centro la etiqueta h3.
