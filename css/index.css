@@ -1,0 +1,21 @@
+h1 {
+  color: yellow;
+  background-image: url("../img/linux.png");
+}
+
+h2 {
+  height: 100px;
+  width: 50%;
+  background-color: aqua;
+}
+h3 {
+  margin-left: 50%;
+  background: 30px;
+  color: red;
+}
+
+p {
+  border-style: dotted;
+  border-width: 7px;
+  color: red;
+}
